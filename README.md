@@ -1,5 +1,5 @@
-# biobots-codes
- Different codes for tracking, force measurement
+# force-measurement
+ Different codes for force measurement and others
 
 detect_peaks.py -> code for detecting peaks from Marcos Duarte (more information inside file)
 
